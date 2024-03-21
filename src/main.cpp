@@ -1,6 +1,5 @@
 #include "ticTacToe.h"
 
-#include <cctype>
 #include <iostream>
 
 int main() {
