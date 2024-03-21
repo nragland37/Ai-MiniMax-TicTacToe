@@ -120,9 +120,9 @@ int TicTacToe::_evaluate() const {
 
 int TicTacToe::_minimax(int depth, bool isMax, int alpha, int beta) {
     int score = _evaluate();
-
-    // traverse the tree
     std::string indent(depth * 2, ' ');
+
+    // display traversal of the tree
     if (depth == 0) std::cout << std::endl;
     std::cout << indent << "depth: " << depth 
               << (score == 10 ? "\tO won" : score == -10 ? "\tX won" : "") << std::endl;
