@@ -37,32 +37,3 @@
 .vscode/
 
 //****************************************************************************************************
-
-# CMake
-build/
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-Makefile
-
-# Object files
-*.o
-*.so
-*.a
-*.lo
-
-# Executable and libraries
-*.exe
-*.out
-*.dll
-
-# IDE specific files
-.vscode/
-.idea/
-
-# System specific
-.DS_Store
-
-//****************************************************************************************************
-
-TicTacToe 
