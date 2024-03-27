@@ -124,8 +124,8 @@ int TicTacToe::_minimax(int depth, bool isMax, int alpha, int beta) {
 
     // display traversal of the tree
     if (depth == 0) std::cout << std::endl;
-    std::cout << indent << "depth: " << depth 
-              << (score == 10 ? "\tO won" : score == -10 ? "\tX won" : "") << std::endl;
+    std::cout << indent << "depth: " << depth
+              << (score == 10 ? "\tO won" : (score == -10 ? "\tX won" : "")) << std::endl;
     
     // base cases (win, lose, tie)
     if (score == 10) return score - depth;
