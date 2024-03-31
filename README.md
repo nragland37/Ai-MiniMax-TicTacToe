@@ -1,7 +1,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/851b8fc450d2488f9e685513cfedcff9)](https://app.codacy.com/gh/nragland37/Ai-MiniMax-TicTacToe/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nragland37/Ai-MiniMax-TicTacToe/blob/main/LICENSE)
 
-# <p align="center"> :x: Unbeatable Tic-Tac-Toe AI :o: </p>
+# <p align="center"> Unbeatable Tic-Tac-Toe AI :joystick: </p>
 ### <p align="center"> *Defeat is not an option!* </p>
 
 ## How the AI Thinks (Minimax)
