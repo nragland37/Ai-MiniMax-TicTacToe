@@ -2,10 +2,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nragland37/Ai-MiniMax-TicTacToe/blob/main/LICENSE)
 
 # <p align="center"> :x: Unbeatable Tic-Tac-Toe AI :o: </p>
-
-### *Defeat is not an option!*
-
-The Tic-Tac-Toe game features an unbeatable AI opponent powered by the Minimax algorithm and Alpha-Beta pruning optimizations. The project also includes interactive visualizations of the AI's decision-making process via tree traversal for each move.
+### <p align="center"> *Defeat is not an option!* </p>
 
 ## How the AI Thinks (Minimax)
 
