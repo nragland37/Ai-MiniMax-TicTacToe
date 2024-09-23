@@ -3,6 +3,10 @@
 
 # <p align="center"> Unbeatable Tic-Tac-Toe Artificial Intelligence :joystick: </p>
 
+<p align="center">
+  <img src="assets/ai-demo.gif" alt="AI Demo">
+</p>
+
 ## Minimax Algorithm 
 
 1. Considers all potential board layouts that could result from its moves and your responses, like a branching tree of possibilities.
